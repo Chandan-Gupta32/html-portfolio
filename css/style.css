@@ -1,0 +1,12 @@
+body{
+    background-color: blanchedalmond;
+    }
+    hr{
+     background-color: grey;
+     border-style: dotted;
+    border-width: 1px;
+     width:20%;
+    }
+    img{
+   padding:2px;
+    } 
